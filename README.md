@@ -11,3 +11,4 @@ test
 - 9차 : btn 오류 수정
 - 10차 : feature1 기능추가
 - 11차: feature2 기능추가
+- 12차 : feature3 기능추가
